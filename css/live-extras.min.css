@@ -2,7 +2,7 @@
 	position:relative;
 	height:100vh;
 	min-height:700px;
-	background:url(../images/backgrounds/stem2.jpg) no-repeat center center fixed;
+	background:url(../images/backgrounds/Science_2500.jpg) no-repeat center center fixed;
 	background-size:cover}
 	.livespscc--1 .welcome:before{
 		position:absolute;
@@ -61,7 +61,7 @@
 	position:relative;
 	height:10vh;
 	min-height:400px;
-	background:url(../images/backgrounds/stem800.jpg)no-repeat top center;
+	background:url(../images/backgrounds/Science_800.jpg)no-repeat top center;
 	background-color:#ffffff;
 }
 
